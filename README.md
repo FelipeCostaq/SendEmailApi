@@ -6,11 +6,12 @@ API simples para envio de e-mails através do meu portfólio.
 
 ## Tecnologias Usadas
 
-![.NET](https://img.shields.io/badge/.NET-9.0-blue?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9.0-blue?logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-7.0-green?logo=asp.net&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-API-yellow?logo=swagger&logoColor=black)
-![Render](https://img.shields.io/badge/Render-Cloud-orange?logo=render&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0078D7?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-008080?style=for-the-badge&logo=asp.net&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-6BAE44?style=for-the-badge&logo=swagger&logoColor=white)
+![Render](https://img.shields.io/badge/Render-FF3E00?style=for-the-badge&logo=render&logoColor=white)
+
 
 ---
 
